@@ -1,0 +1,46 @@
+{
+  "name": "200717-2",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "dependencies": {
+    "array-unique": "^0.3.2",
+    "body-parser": "^1.18.3",
+    "btoa": "^1.1.2",
+    "busboy": "^0.2.14",
+    "cookie-parser": "~1.4.3",
+    "cors": "^2.8.4",
+    "date-and-time": "^0.5.0",
+    "dateformat": "^3.0.2",
+    "datetime-str": "^1.0.2",
+    "debug": "~2.6.3",
+    "express": "^4.16.3",
+    "express-fileupload": "^0.3.0",
+    "fs": "0.0.1-security",
+    "html-ellipsis": "^1.1.1",
+    "jade": "~1.11.0",
+    "mathjs": "^3.14.2",
+    "moment": "^2.22.2",
+    "mongoose": "^4.11.3",
+    "morgan": "^1.9.0",
+    "mysql": "^2.15.0",
+    "node-rest-client": "^3.1.0",
+    "nodemailer": "^4.4.0",
+    "path": "^0.12.7",
+    "request": "^2.87.0",
+    "sentiment": "^5.0.1",
+    "serve-favicon": "^2.5.0",
+    "sha1": "^1.1.1",
+    "str-replace": "0.0.5",
+    "string": "^3.3.3",
+    "swagger-jsdoc": "^1.9.7",
+    "swagger-ui-express": "^3.0.8",
+    "sync-each": "^1.0.1",
+    "winston": "^2.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.5"
+  }
+}
