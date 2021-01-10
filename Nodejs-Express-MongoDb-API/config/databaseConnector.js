@@ -1,12 +1,6 @@
 var mysql = require('mysql');
 
 var con = mysql.createConnection({
-    // host: "rpainstance.chqsdddmmhkf.us-east-1.rds.amazonaws.com",
-    // user: "rpaadmin_root",
-    // password: "vdzChQ3aafK4fDuJ",
-    // host: "localhost",
-    // user: "root",
-    // password: "",
     database: "rpapilot",
     multipleStatements: true
 });
